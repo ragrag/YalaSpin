@@ -1,0 +1,125 @@
+<resources>
+    <string name="banner" translatable="false">-app-pub-5954656219348211/2494257489</string>
+    <string name="inter" translatable="false">-app-pub-5954656219348211/3970990687</string>
+
+    <string name="app_name">Yala Truth</string>
+    <string name="Play">Play</string>
+    <string name="Add">Add Player</string>
+    <string name="Start">Start</string>
+    <string name="Asks">asks</string>
+    <string name="Choose">Choose A Question</string>
+    <string name="Answered">Answered</string>
+    <string name="Passed">Passed</string>
+    <string name="Scores">Scores</string>
+    <string name="player_min_number">Minimum number of players is 2</string>
+    <string name="player_added">Player Added</string>
+
+
+    <string name="q1">If you were locked up in a room with some other person from this room, whom would you choose and why?</string>
+    <string name="q2">What is the most embarrassing thing you’ve done till now?</string>
+    <string name="q3">What is the one thing you hate about your best friend?</string>
+    <string name="q4">Are you still a virgin?</string>
+    <string name="q5">Have you ever told one of your best friend’s secrets, even if you said you wouldn’t?</string>
+    <string name="q6">Do you still have feelings for an ex?.</string>
+    <string name="q7">Do you ever had a drunk night this year?</string>
+    <string name="q8">Have you ever thought about killing someone?</string>
+    <string name="q9">Would you ever have sex for money?</string>
+    <string name="q10">Do you keep secrets from your lovers?</string>
+    <string name="q11">Have you ever deliberately watched someone while they were changing or showering, secretly?</string>
+    <string name="q12">What’s your favorite thing about the opposite sex?</string>
+    <string name="q13">What is the worst rumor that you have participated in, and against whom?</string>
+    <string name="q14">Have you ever cheated on someone?</string>
+    <string name="q15">How many different sex partners you have had?</string>
+    <string name="q16">Have you ever kissed someone of the same sex?</string>
+    <string name="q17">What do you think about porn?</string>
+    <string name="q18">Have you ever been arrested?</string>
+    <string name="q19">Do you believe you have found your soul mate?</string>
+    <string name="q20">Do you still talk to any of your ex’s?</string>
+    <string name="q21">What do you think about anal sex?</string>
+    <string name="q22">If you need to have sex with one of the players, who it would be?</string>
+    <string name="q23">Pick one person to exchange your girlfriend/boyfriend with</string>
+    <string name="q24">Amongst all the people in this room, which guy/girl would you like to date?</string>
+    <string name="q25">Describe a typical day in your life?</string>
+    <string name="q26">If you got a chance to make anyone in this room your slave, who would that be?</string>
+    <string name="q27">Have you ever been drunk this year?</string>
+    <string name="q28">Have you ever been with more than one partner at the same time?</string>
+    <string name="q29">How many secrets you are keeping now?</string>
+    <string name="q30">Have you ever thought about killing someone?</string>
+    <string name="q31">Have you kissed anyone in the last week?</string>
+    <string name="q32">What is the stupidest thing you’ve done because someone dared you to?</string>
+    <string name="q33">How many sex positions you have tried?</string>
+    <string name="q34">Whom would you like to marry from amongst the group in this room and why?</string>
+    <string name="q35">If you could date anyone in the world, who would it be?</string>
+    <string name="q36">Who was your first crush?  </string>
+    <string name="q37">What is the worst fear you have in life?</string>
+    <string name="q38">What is the one thing you have ever done which you never ever want to be caught doing?</string>
+    <string name="q39">Have you ever lied to your girlfriend/boyfriend? If yes, about what?</string>
+    <string name="q40">Do you prefer talking or texting?</string>
+    <string name="q41">Do you smoke or have you ever smoked?</string>
+    <string name="q42">Who is most beautiful person you know (inside and out).</string>
+    <string name="q43">Do you take illegal drugs?</string>
+    <string name="q44">Have you ever been in a hot box?</string>
+    <string name="q45">If you had the chance to be reborn as someone else, which person would you choose from this room and why?</string>
+    <string name="q46">Do you think dance with a boy/girl in a nightclub is cheating?</string>
+    <string name="q47">Would you kiss the person next to you?</string>
+    <string name="q48">Are you happy with the life you have?</string>
+    <string name="q49">How old were you when you had your first kiss?</string>
+    <string name="q50">Have you ever been cheated on by a boyfriend/girlfriend?</string>
+    <string name="q51">What is the most awkward moment you\'ve ever had on a date?</string>
+    <string name="q52">What would you do on the perfect first date?</string>
+    <string name="q53">Of all the people you know, who has the most beautiful eyes?</string>
+    <string name="q54">If you could marry one teacher in the school, who would you pick and why?</string>
+    <string name="q55">What were your first impressions of me ?</string>
+    <string name="q56">What personality traits would cause you to end a friendship?</string>
+    <string name="q57">Would you go behind a friend\'s back with a crush?</string>
+    <string name="q58">Have you ever lied to your best friend?</string>
+    <string name="q59">How many best friends have you had during your lifetime?</string>
+    <string name="q60">If you were stuck on a deserted island which friend would you want with you?</string>
+    <string name="q61">Which person here knows something about you that you wouldn\'t want revealed?</string>
+    <string name="q62">What are the three qualities you feel are most important in a friend?</string>
+    <string name="q63">What would make you lie for your friend?</string>
+    <string name="q64">Have you ever told a lie during a game of Truth or Dare?</string>
+    <string name="q65">Have you ever had a crush on anyone here?</string>
+    <string name="q66">Have you ever stolen anything?</string>
+    <string name="q67">What\'s your scariest nightmare?</string>
+    <string name="q68">What do you think is your biggest physical flaw?</string>
+    <string name="q69">What happened on the worst day of your life?</string>
+    <string name="q70">What’s the dirtiest thought you’ve ever had?</string>
+    <string name="q71">Of the people in this room, who do you most want to make out with?</string>
+    <string name="q72">What’s the first thing you’d do if you woke up one day and you were the opposite sex?</string>
+    <string name="q73">Of the people in this room, who do you consider the sluttiest?</string>
+    <string name="q74">What’s the most embarrassing thing your parents have caught you doing?</string>
+    <string name="q75">What’s the biggest lie you’ve ever told without getting caught?</string>
+    <string name="q76">What do you like most and least about your personality?</string>
+    <string name="q78">If you could erase one past experience, what would it be?</string>
+    <string name="q79">What’s the craziest thing you’ve ever done to attract a crush? </string>
+    <string name="q80">When’s the last time you were flat-out rejected and how did you handle it?</string>
+    <string name="q81">Of the <p></p>eople in this room, who do you disagree with most frequently?</string>
+    <string name="q82">What would you change about your life if you could?</string>
+    <string name="q83">What’s the most flirtatious thing you’ve ever done?</string>
+    <string name="q84">If you could make one wish right this second, what would it be?</string>
+    <string name="q85">What’s the most awkward experience you’ve had with a crush?</string>
+    <string name="q86">What’s the meanest thing you’ve ever said to someone?</string>
+    <string name="q87">What’s the cruelest thing you’ve ever done to a friend?</string>
+    <string name="q88">What’s the most childish thing you still do?</string>
+    <string name="q89">Have you ever wanted to snog a teacher?</string>
+    <string name="q90">Do you want to have kids?</string>
+    <string name="q91">Tell 5 names of your crushes.</string>
+    <string name="q92">What is the silliest thing you have an emotional attachment to?</string>
+    <string name="q93">Tell me about your first kiss.</string>
+    <string name="q94">Say some good qualities of your crush.</string>
+    <string name="q95">Do you believe in love at first sight?</string>
+    <string name="q96">How many cigarettes do you smoke a day?</string>
+    <string name="q97">Who looks more sexy among us?</string>
+    <string name="q98">Did you watch porn?</string>
+    <string name="q99">Why did you break up with your last boyfriend or girlfriend?</string>
+    <string name="q100">What lie have you told that hurt someone?</string>
+    <string name="q77">What secret about yourself did you tell someone in confidence and then they told a lot of other people?</string>
+
+
+
+
+
+
+
+</resources>
